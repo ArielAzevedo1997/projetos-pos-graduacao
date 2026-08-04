@@ -1,4 +1,4 @@
-# Projetos - Pós-Graduação em Engenharia de Dados (Xperiun)
+# Projetos - Pós-Graduação em Engenharia de Dados e IA (Xperiun)
 
 Repositório com os projetos desenvolvidos ao longo da Pós-Graduação em Engenharia de Dados e IA da **Xperiun**.
 
