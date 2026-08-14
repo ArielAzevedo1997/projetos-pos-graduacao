@@ -28,7 +28,7 @@ resultado.json
 
 ## Dataset
 
-A base bruta contém **220 registros**, com **20 duplicações exatas intencionais** (200 registros únicos), além de inconsistências inseridas propositalmente para exercício de Data Quality:
+A base bruta contém **220 registros**, com **20 duplicações exatas intencionais**, resultando em **200 tickets únicos** para classificação, além de inconsistências inseridas propositalmente para exercício de Data Quality:
 
 - datas em formatos diferentes;
 - datas inválidas e ausentes;
@@ -49,7 +49,7 @@ Dimensões disponíveis para análise:
 
 ## Enriquecimento com IA
 
-A OpenAI API é utilizada com **Structured Outputs** e um schema Pydantic para classificar cada ticket em:
+A OpenAI API é utilizada com **Structured Outputs** e um schema Pydantic para classificar os **200 tickets únicos** em:
 
 - `categoria`: cobranca, acesso, bug, funcionalidade, elogio ou outros;
 - `prioridade`: baixa, media ou alta;
@@ -60,7 +60,7 @@ O pipeline também captura o motivo de encerramento da geração, contabiliza to
 
 ## Métricas da execução de referência
 
-- Tickets classificados: **198**
+- Tickets classificados: **200**
 - Tokens de entrada: **34.546**
 - Tokens de saída: **6.200**
 - Tokens totais: **40.746**
@@ -74,19 +74,19 @@ As métricas agregadas dessa execução estão em `resultado_metricas.json`.
 |---|---|
 | `case_api_openai.py` | Código principal do case |
 | `tickets_case.csv` | Camada raw / dataset de entrada |
-| `resultado_metricas.json` | Métricas da execução de referência |
-| `requirements.txt` | Dependências Python |
+| `resultado_metricas.json` | Métricas agregadas da execução de referência |
+| `requirements.txt` | Dependências externas e observações sobre bibliotecas nativas/Colab |
 | `.gitignore` | Proteção de secrets e arquivos temporários |
 
-## Arquivos gerados pelo pipeline
+## Artefatos finais do pipeline
 
-Ao executar o código, são produzidos automaticamente:
+A execução final do pipeline produz:
 
 - `tickets_curated.xlsx` — camada curated em Excel;
 - `tickets_curated.parquet` — camada curated em Parquet;
 - `resultado.json` — classificações dos tickets e métricas agregadas da execução.
 
-Esses artefatos são resultados da execução e podem ser reproduzidos a partir do dataset raw e do pipeline versionados neste projeto.
+Os arquivos curated devem corresponder à mesma execução final de **200 tickets classificados**.
 
 ## Tecnologias
 
@@ -95,7 +95,8 @@ Esses artefatos são resultados da execução e podem ser reproduzidos a partir 
 - OpenAI API
 - Pydantic
 - JSON
-- Parquet
+- Parquet / PyArrow
+- Excel / OpenPyXL
 - Google Colab
 
 ## Execução
@@ -113,6 +114,10 @@ O código foi desenvolvido no **Google Colab**.
 4. Execute o código.
 
 A chave da API **não é armazenada no repositório**.
+
+### Bibliotecas
+
+As dependências externas instaláveis estão listadas em `requirements.txt`. As bibliotecas `os`, `json` e `typing` pertencem à biblioteca padrão do Python e, por isso, não aparecem como pacotes para instalação. O módulo `google.colab` é fornecido pelo próprio ambiente do Google Colab.
 
 ## Conceitos praticados
 
