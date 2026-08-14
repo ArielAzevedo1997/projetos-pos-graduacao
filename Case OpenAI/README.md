@@ -58,7 +58,7 @@ A OpenAI API é utilizada com **Structured Outputs** e um schema Pydantic para c
 
 O pipeline também captura o motivo de encerramento da geração, contabiliza tokens e possui tratamento de exceções para rate limit, falhas de conexão, erros de status da API e erros não previstos.
 
-## Métricas da execução disponibilizada
+## Métricas da execução de referência
 
 - Tickets classificados: **198**
 - Tokens de entrada: **34.546**
@@ -66,18 +66,27 @@ O pipeline também captura o motivo de encerramento da geração, contabiliza to
 - Tokens totais: **40.746**
 - Custo estimado pela tarifa utilizada no código: **US$ 0,008902**
 
-> Os artefatos de saída incluídos no repositório refletem a execução registrada em `resultado.json`.
+As métricas agregadas dessa execução estão em `resultado_metricas.json`.
 
-## Arquivos
+## Arquivos versionados
 
 | Arquivo | Descrição |
 |---|---|
 | `case_api_openai.py` | Código principal do case |
 | `tickets_case.csv` | Camada raw / dataset de entrada |
-| `tickets_curated.xlsx` | Saída curated em Excel |
-| `tickets_curated.parquet` | Saída curated em Parquet |
-| `resultado.json` | Classificações e métricas agregadas de tokens/custo |
+| `resultado_metricas.json` | Métricas da execução de referência |
 | `requirements.txt` | Dependências Python |
+| `.gitignore` | Proteção de secrets e arquivos temporários |
+
+## Arquivos gerados pelo pipeline
+
+Ao executar o código, são produzidos automaticamente:
+
+- `tickets_curated.xlsx` — camada curated em Excel;
+- `tickets_curated.parquet` — camada curated em Parquet;
+- `resultado.json` — classificações dos tickets e métricas agregadas da execução.
+
+Esses artefatos são resultados da execução e podem ser reproduzidos a partir do dataset raw e do pipeline versionados neste projeto.
 
 ## Tecnologias
 
