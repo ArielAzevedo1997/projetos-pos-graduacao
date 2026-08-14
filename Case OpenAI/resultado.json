@@ -1,0 +1,1212 @@
+{
+    "resultados": {
+        "17": {
+            "categoria": "acesso",
+            "prioridade": "alta",
+            "resumo": "Código de recuperação de senha não recebido por e-mail.",
+            "sentimento": "negativo"
+        },
+        "92": {
+            "categoria": "cobranca",
+            "prioridade": "alta",
+            "resumo": "Cobrança duplicada na assinatura.",
+            "sentimento": "negativo"
+        },
+        "22": {
+            "categoria": "elogio",
+            "prioridade": "baixa",
+            "resumo": "Feedback positivo sobre a atualização do sistema.",
+            "sentimento": "positivo"
+        },
+        "111": {
+            "categoria": "bug",
+            "prioridade": "alta",
+            "resumo": "A sincronização automática está atrasada e os números não estão atualizados.",
+            "sentimento": "negativo"
+        },
+        "101": {
+            "categoria": "cobranca",
+            "prioridade": "alta",
+            "resumo": "Fatura com valor maior que o contratado.",
+            "sentimento": "negativo"
+        },
+        "51": {
+            "categoria": "funcionalidade",
+            "prioridade": "baixa",
+            "resumo": "Usuário solicita informações sobre o upgrade de plano.",
+            "sentimento": "neutro"
+        },
+        "80": {
+            "categoria": "cobranca",
+            "prioridade": "alta",
+            "resumo": "Fatura com valor maior do que o contratado.",
+            "sentimento": "negativo"
+        },
+        "56": {
+            "categoria": "acesso",
+            "prioridade": "media",
+            "resumo": "Usuário não consegue acessar pelo navegador.",
+            "sentimento": "negativo"
+        },
+        "132": {
+            "categoria": "elogio",
+            "prioridade": "baixa",
+            "resumo": "Cliente elogiou os novos gráficos do dashboard.",
+            "sentimento": "positivo"
+        },
+        "128": {
+            "categoria": "acesso",
+            "prioridade": "media",
+            "resumo": "Consulta sobre alteração de permissões de usuários da equipe.",
+            "sentimento": "neutro"
+        },
+        "157": {
+            "categoria": "acesso",
+            "prioridade": "media",
+            "resumo": "Dúvida sobre como alterar permissões de usuários.",
+            "sentimento": "neutro"
+        },
+        "78": {
+            "categoria": "bug",
+            "prioridade": "alta",
+            "resumo": "Gráficos do dashboard estão lentos para carregar.",
+            "sentimento": "negativo"
+        },
+        "53": {
+            "categoria": "acesso",
+            "prioridade": "media",
+            "resumo": "Usuário busca credenciais para configuração de integração mas encontrou dificuldades.",
+            "sentimento": "negativo"
+        },
+        "57": {
+            "categoria": "acesso",
+            "prioridade": "media",
+            "resumo": "Pergunta sobre limite de usuários do plano atual.",
+            "sentimento": "neutro"
+        },
+        "5": {
+            "categoria": "acesso",
+            "prioridade": "media",
+            "resumo": "Usuário solicita informação sobre como adicionar mais membros ao plano.",
+            "sentimento": "neutro"
+        },
+        "156": {
+            "categoria": "cobranca",
+            "prioridade": "alta",
+            "resumo": "Cobrança duplicada no cartão de crédito.",
+            "sentimento": "negativo"
+        },
+        "108": {
+            "categoria": "funcionalidade",
+            "prioridade": "media",
+            "resumo": "Solicitação para aumento de plano devido à necessidade de mais usuários e relatórios.",
+            "sentimento": "neutro"
+        },
+        "18": {
+            "categoria": "bug",
+            "prioridade": "alta",
+            "resumo": "Gráficos do dashboard com demora excessiva para aparecer.",
+            "sentimento": "negativo"
+        },
+        "72": {
+            "categoria": "acesso",
+            "prioridade": "media",
+            "resumo": "Solicitação de cancelamento de conta.",
+            "sentimento": "neutro"
+        },
+        "81": {
+            "categoria": "cobranca",
+            "prioridade": "media",
+            "resumo": "Solicitação de confirmação de cancelamento.",
+            "sentimento": "neutro"
+        },
+        "25": {
+            "categoria": "acesso",
+            "prioridade": "media",
+            "resumo": "Cliente não encontrou a opção de cancelar a assinatura no painel.",
+            "sentimento": "negativo"
+        },
+        "12": {
+            "categoria": "bug",
+            "prioridade": "alta",
+            "resumo": "Gráficos do dashboard estão demorando muito para carregar.",
+            "sentimento": "negativo"
+        },
+        "49": {
+            "categoria": "acesso",
+            "prioridade": "alta",
+            "resumo": "Instabilidade ao acessar relatórios e indicadores.",
+            "sentimento": "negativo"
+        },
+        "155": {
+            "categoria": "elogio",
+            "prioridade": "baixa",
+            "resumo": "Cliente elogiou o atendimento rápido e a resolução do problema.",
+            "sentimento": "positivo"
+        },
+        "19": {
+            "categoria": "acesso",
+            "prioridade": "media",
+            "resumo": "Consulta sobre limite de usuários no plano atual.",
+            "sentimento": "neutro"
+        },
+        "7": {
+            "categoria": "bug",
+            "prioridade": "alta",
+            "resumo": "Relatórios não estão abrindo desde ontem.",
+            "sentimento": "negativo"
+        },
+        "124": {
+            "categoria": "acesso",
+            "prioridade": "alta",
+            "resumo": "Usuário convidado não recebeu e-mail de acesso.",
+            "sentimento": "negativo"
+        },
+        "139": {
+            "categoria": "cobranca",
+            "prioridade": "media",
+            "resumo": "Cobrança do mês aparece duplicada no cartão.",
+            "sentimento": "negativo"
+        },
+        "67": {
+            "categoria": "bug",
+            "prioridade": "alta",
+            "resumo": "Integração configurada mas não funciona conforme a documentação.",
+            "sentimento": "negativo"
+        },
+        "90": {
+            "categoria": "cobranca",
+            "prioridade": "alta",
+            "resumo": "Pagamento aprovado, mas sistema indica mensalidade pendente.",
+            "sentimento": "negativo"
+        },
+        "189": {
+            "categoria": "bug",
+            "prioridade": "alta",
+            "resumo": "Sistema desconecta durante o uso, requer reconexão.",
+            "sentimento": "negativo"
+        },
+        "193": {
+            "categoria": "acesso",
+            "prioridade": "alta",
+            "resumo": "Usuário solicita ajuda urgente para alterar permissões da equipe.",
+            "sentimento": "negativo"
+        },
+        "131": {
+            "categoria": "funcionalidade",
+            "prioridade": "media",
+            "resumo": "Cliente deseja aumentar o plano para mais usuários e relatórios.",
+            "sentimento": "neutro"
+        },
+        "165": {
+            "categoria": "cobranca",
+            "prioridade": "alta",
+            "resumo": "Cobrança duplicada na assinatura.",
+            "sentimento": "negativo"
+        },
+        "47": {
+            "categoria": "cobranca",
+            "prioridade": "alta",
+            "resumo": "Cobrança duplicada no cartão de crédito.",
+            "sentimento": "negativo"
+        },
+        "191": {
+            "categoria": "acesso",
+            "prioridade": "alta",
+            "resumo": "Problemas na recepção do código de recuperação de senha.",
+            "sentimento": "negativo"
+        },
+        "27": {
+            "categoria": "acesso",
+            "prioridade": "alta",
+            "resumo": "Usuário reporta problema ao acessar a conta com a senha correta.",
+            "sentimento": "negativo"
+        },
+        "116": {
+            "categoria": "bug",
+            "prioridade": "alta",
+            "resumo": "Integração com sistema parou de atualizar os dados desde ontem.",
+            "sentimento": "negativo"
+        },
+        "9": {
+            "categoria": "bug",
+            "prioridade": "alta",
+            "resumo": "Dashboard lento e demorando para carregar dados.",
+            "sentimento": "negativo"
+        },
+        "30": {
+            "categoria": "cobranca",
+            "prioridade": "alta",
+            "resumo": "Cliente foi cobrado duas vezes pela mesma assinatura e solicita verificação.",
+            "sentimento": "negativo"
+        },
+        "199": {
+            "categoria": "acesso",
+            "prioridade": "alta",
+            "resumo": "Cliente requere informações sobre o cancelamento da conta.",
+            "sentimento": "negativo"
+        },
+        "94": {
+            "categoria": "bug",
+            "prioridade": "alta",
+            "resumo": "Relatórios não abrem e ficam apenas carregando.",
+            "sentimento": "negativo"
+        },
+        "113": {
+            "categoria": "cobranca",
+            "prioridade": "media",
+            "resumo": "Cliente questiona cobrança adicional na assinatura.",
+            "sentimento": "negativo"
+        },
+        "6": {
+            "categoria": "bug",
+            "prioridade": "alta",
+            "resumo": "Problema com a exportação de relatório para CSV que impede o download.",
+            "sentimento": "negativo"
+        },
+        "109": {
+            "categoria": "elogio",
+            "prioridade": "baixa",
+            "resumo": "Usuário elogia atualização do sistema.",
+            "sentimento": "positivo"
+        },
+        "99": {
+            "categoria": "cobranca",
+            "prioridade": "alta",
+            "resumo": "Fatura apresenta valor incorreto, maior do que o contratado.",
+            "sentimento": "negativo"
+        },
+        "197": {
+            "categoria": "bug",
+            "prioridade": "alta",
+            "resumo": "Erro na geração do CSV com caracteres estranhos nos nomes dos clientes.",
+            "sentimento": "negativo"
+        },
+        "195": {
+            "categoria": "acesso",
+            "prioridade": "alta",
+            "resumo": "Problemas de acesso ao login pelo navegador.",
+            "sentimento": "negativo"
+        },
+        "44": {
+            "categoria": "acesso",
+            "prioridade": "media",
+            "resumo": "Solicitação de remoção de usuário antigo para liberar vaga.",
+            "sentimento": "neutro"
+        },
+        "64": {
+            "categoria": "bug",
+            "prioridade": "alta",
+            "resumo": "CSV gerado apresenta caracteres estranhos nos nomes dos clientes.",
+            "sentimento": "negativo"
+        },
+        "149": {
+            "categoria": "bug",
+            "prioridade": "alta",
+            "resumo": "Arquivo exportado com colunas faltando que estão no dashboard.",
+            "sentimento": "negativo"
+        },
+        "183": {
+            "categoria": "bug",
+            "prioridade": "alta",
+            "resumo": "Erro na exportação para Excel.",
+            "sentimento": "negativo"
+        },
+        "95": {
+            "categoria": "cobranca",
+            "prioridade": "media",
+            "resumo": "Cliente questiona cobrança adicional na assinatura.",
+            "sentimento": "negativo"
+        },
+        "127": {
+            "categoria": "bug",
+            "prioridade": "alta",
+            "resumo": "Plataforma apresenta lentidão e problemas de carregamento de páginas.",
+            "sentimento": "neutro"
+        },
+        "112": {
+            "categoria": "bug",
+            "prioridade": "alta",
+            "resumo": "Arquivo exportado sem colunas que aparecem no dashboard.",
+            "sentimento": "negativo"
+        },
+        "37": {
+            "categoria": "acesso",
+            "prioridade": "alta",
+            "resumo": "Problemas para acessar a conta mesmo com a senha correta.",
+            "sentimento": "negativo"
+        },
+        "125": {
+            "categoria": "acesso",
+            "prioridade": "media",
+            "resumo": "Cliente não encontrou a opção para cancelar a assinatura no painel.",
+            "sentimento": "negativo"
+        },
+        "33": {
+            "categoria": "acesso",
+            "prioridade": "alta",
+            "resumo": "Problemas com o recebimento do código de recuperação de senha.",
+            "sentimento": "negativo"
+        },
+        "152": {
+            "categoria": "cobranca",
+            "prioridade": "alta",
+            "resumo": "Cobrança duplicada no cartão de crédito.",
+            "sentimento": "negativo"
+        },
+        "187": {
+            "categoria": "acesso",
+            "prioridade": "media",
+            "resumo": "Solicitação para remoção de usuário antigo e liberação de vaga.",
+            "sentimento": "neutro"
+        },
+        "134": {
+            "categoria": "cobranca",
+            "prioridade": "alta",
+            "resumo": "Fatura com valor maior do que o contratado.",
+            "sentimento": "negativo"
+        },
+        "100": {
+            "categoria": "acesso",
+            "prioridade": "media",
+            "resumo": "Troca de plano sem perda de dados cadastrados.",
+            "sentimento": "neutro"
+        },
+        "15": {
+            "categoria": "bug",
+            "prioridade": "alta",
+            "resumo": "Erro na exportação para Excel.",
+            "sentimento": "negativo"
+        },
+        "55": {
+            "categoria": "funcionalidade",
+            "prioridade": "media",
+            "resumo": "Solicitação de aumento de plano para mais usuários e relatórios.",
+            "sentimento": "neutro"
+        },
+        "103": {
+            "categoria": "acesso",
+            "prioridade": "media",
+            "resumo": "Usuário pede informações sobre credenciais para integração.",
+            "sentimento": "neutro"
+        },
+        "114": {
+            "categoria": "cobranca",
+            "prioridade": "media",
+            "resumo": "Dúvida sobre o cancelamento do plano anual.",
+            "sentimento": "neutro"
+        },
+        "68": {
+            "categoria": "elogio",
+            "prioridade": "baixa",
+            "resumo": "Atendimento rápido e eficaz.",
+            "sentimento": "positivo"
+        },
+        "11": {
+            "categoria": "funcionalidade",
+            "prioridade": "media",
+            "resumo": "Usuário pergunta sobre a possibilidade de trocar de plano sem perda de dados.",
+            "sentimento": "neutro"
+        },
+        "119": {
+            "categoria": "funcionalidade",
+            "prioridade": "baixa",
+            "resumo": "Pergunta sobre recursos do plano Business.",
+            "sentimento": "neutro"
+        },
+        "154": {
+            "categoria": "funcionalidade",
+            "prioridade": "baixa",
+            "resumo": "Cliente solicita informações sobre recursos do plano Business.",
+            "sentimento": "neutro"
+        },
+        "69": {
+            "categoria": "bug",
+            "prioridade": "alta",
+            "resumo": "Relatório mensal está vindo incompleto.",
+            "sentimento": "negativo"
+        },
+        "61": {
+            "categoria": "acesso",
+            "prioridade": "alta",
+            "resumo": "Usuário enfrenta desconexões frequentes do sistema e solicita assistência urgente.",
+            "sentimento": "negativo"
+        },
+        "71": {
+            "categoria": "acesso",
+            "prioridade": "alta",
+            "resumo": "Problemas para acessar a conta com senha correta.",
+            "sentimento": "negativo"
+        },
+        "54": {
+            "categoria": "bug",
+            "prioridade": "alta",
+            "resumo": "CSV gerado apresenta caracteres estranhos nos nomes dos clientes.",
+            "sentimento": "negativo"
+        },
+        "185": {
+            "categoria": "funcionalidade",
+            "prioridade": "alta",
+            "resumo": "Cliente solicita informações sobre recursos do plano Business.",
+            "sentimento": "neutro"
+        },
+        "59": {
+            "categoria": "acesso",
+            "prioridade": "alta",
+            "resumo": "Conta bloqueada após tentativas de login.",
+            "sentimento": "negativo"
+        },
+        "20": {
+            "categoria": "cobranca",
+            "prioridade": "media",
+            "resumo": "Cobrança duplicada na assinatura.",
+            "sentimento": "neutro"
+        },
+        "181": {
+            "categoria": "acesso",
+            "prioridade": "alta",
+            "resumo": "Usuário com problemas para logar e resetar senha.",
+            "sentimento": "negativo"
+        },
+        "180": {
+            "categoria": "bug",
+            "prioridade": "alta",
+            "resumo": "Integração com o sistema parou de atualizar os dados.",
+            "sentimento": "neutro"
+        },
+        "176": {
+            "categoria": "acesso",
+            "prioridade": "alta",
+            "resumo": "Erro de autenticação na chave de integração.",
+            "sentimento": "negativo"
+        },
+        "142": {
+            "categoria": "acesso",
+            "prioridade": "media",
+            "resumo": "Usuário solicita ajuda para adicionar mais membros ao plano.",
+            "sentimento": "neutro"
+        },
+        "79": {
+            "categoria": "cobranca",
+            "prioridade": "media",
+            "resumo": "Cliente solicita verificação de cobrança adicional na assinatura.",
+            "sentimento": "neutro"
+        },
+        "182": {
+            "categoria": "cobranca",
+            "prioridade": "alta",
+            "resumo": "Cobrança duplicada no cartão.",
+            "sentimento": "negativo"
+        },
+        "38": {
+            "categoria": "acesso",
+            "prioridade": "alta",
+            "resumo": "Usuário enfrenta desconexões frequentes durante o uso do sistema.",
+            "sentimento": "negativo"
+        },
+        "82": {
+            "categoria": "elogio",
+            "prioridade": "baixa",
+            "resumo": "Elogio sobre o novo relatório e sua eficiência.",
+            "sentimento": "positivo"
+        },
+        "98": {
+            "categoria": "bug",
+            "prioridade": "alta",
+            "resumo": "Integração não funciona após seguir a documentação.",
+            "sentimento": "negativo"
+        },
+        "162": {
+            "categoria": "cobranca",
+            "prioridade": "alta",
+            "resumo": "Cobrança indevida após cancelamento do plano.",
+            "sentimento": "negativo"
+        },
+        "96": {
+            "categoria": "acesso",
+            "prioridade": "media",
+            "resumo": "Usuário busca as credenciais para configuração de integração.",
+            "sentimento": "neutro"
+        },
+        "91": {
+            "categoria": "elogio",
+            "prioridade": "baixa",
+            "resumo": "Elogio sobre os novos gráficos do dashboard.",
+            "sentimento": "positivo"
+        },
+        "65": {
+            "categoria": "acesso",
+            "prioridade": "alta",
+            "resumo": "Instabilidade no acesso aos relatórios e indicadores.",
+            "sentimento": "negativo"
+        },
+        "88": {
+            "categoria": "bug",
+            "prioridade": "alta",
+            "resumo": "A sincronização automática está atrasada, resultando em dados desatualizados.",
+            "sentimento": "negativo"
+        },
+        "148": {
+            "categoria": "acesso",
+            "prioridade": "alta",
+            "resumo": "Erro de autenticação na chave de integração.",
+            "sentimento": "negativo"
+        },
+        "21": {
+            "categoria": "acesso",
+            "prioridade": "media",
+            "resumo": "Solicitação de informações sobre como transformar um usuário em administrador.",
+            "sentimento": "neutro"
+        },
+        "40": {
+            "categoria": "acesso",
+            "prioridade": "media",
+            "resumo": "Usuário busca desativar a renovação automática do plano.",
+            "sentimento": "neutro"
+        },
+        "169": {
+            "categoria": "cobranca",
+            "prioridade": "alta",
+            "resumo": "Usuário deseja encerrar a assinatura antes da próxima cobrança.",
+            "sentimento": "negativo"
+        },
+        "173": {
+            "categoria": "bug",
+            "prioridade": "alta",
+            "resumo": "Problema de sincronização automática que afeta a atualização dos números.",
+            "sentimento": "negativo"
+        },
+        "126": {
+            "categoria": "funcionalidade",
+            "prioridade": "media",
+            "resumo": "Solicitação por mais funcionalidades e informações sobre opções de upgrade.",
+            "sentimento": "neutro"
+        },
+        "8": {
+            "categoria": "acesso",
+            "prioridade": "media",
+            "resumo": "Problema de login pelo navegador.",
+            "sentimento": "negativo"
+        },
+        "115": {
+            "categoria": "bug",
+            "prioridade": "alta",
+            "resumo": "Integração configurada conforme a documentação, mas não está funcionando.",
+            "sentimento": "negativo"
+        },
+        "89": {
+            "categoria": "bug",
+            "prioridade": "alta",
+            "resumo": "Problema com caracteres estranhos nos nomes dos clientes no CSV gerado.",
+            "sentimento": "negativo"
+        },
+        "129": {
+            "categoria": "elogio",
+            "prioridade": "baixa",
+            "resumo": "Usuário elogia o novo relatório por economizar tempo no trabalho.",
+            "sentimento": "positivo"
+        },
+        "39": {
+            "categoria": "elogio",
+            "prioridade": "baixa",
+            "resumo": "Usuário elogiou a nova atualização do sistema.",
+            "sentimento": "positivo"
+        },
+        "186": {
+            "categoria": "bug",
+            "prioridade": "alta",
+            "resumo": "Relatórios não abrem e ficam carregando desde ontem.",
+            "sentimento": "negativo"
+        },
+        "188": {
+            "categoria": "acesso",
+            "prioridade": "media",
+            "resumo": "Solicitação para remover um usuário antigo e liberar vaga.",
+            "sentimento": "neutro"
+        },
+        "93": {
+            "categoria": "elogio",
+            "prioridade": "baixa",
+            "resumo": "Elogio sobre os novos gráficos do dashboard.",
+            "sentimento": "positivo"
+        },
+        "159": {
+            "categoria": "cobranca",
+            "prioridade": "alta",
+            "resumo": "Cliente questiona cobrança adicional na assinatura.",
+            "sentimento": "negativo"
+        },
+        "43": {
+            "categoria": "elogio",
+            "prioridade": "baixa",
+            "resumo": "Cliente elogiou o atendimento rápido e a solução do problema.",
+            "sentimento": "positivo"
+        },
+        "170": {
+            "categoria": "acesso",
+            "prioridade": "alta",
+            "resumo": "Problemas para acessar a conta pelo navegador.",
+            "sentimento": "negativo"
+        },
+        "97": {
+            "categoria": "acesso",
+            "prioridade": "alta",
+            "resumo": "Instabilidade no acesso aos relatórios e indicadores desde hoje.",
+            "sentimento": "negativo"
+        },
+        "198": {
+            "categoria": "acesso",
+            "prioridade": "media",
+            "resumo": "Cliente busca desativar a renovação automática do plano.",
+            "sentimento": "neutro"
+        },
+        "31": {
+            "categoria": "acesso",
+            "prioridade": "media",
+            "resumo": "Usuário solicita informações sobre como adicionar novos membros ao plano.",
+            "sentimento": "neutro"
+        },
+        "133": {
+            "categoria": "acesso",
+            "prioridade": "alta",
+            "resumo": "Instabilidade no acesso a relatórios e indicadores.",
+            "sentimento": "negativo"
+        },
+        "34": {
+            "categoria": "bug",
+            "prioridade": "alta",
+            "resumo": "Dados da integração não aparecem no dashboard.",
+            "sentimento": "negativo"
+        },
+        "1": {
+            "categoria": "cobranca",
+            "prioridade": "alta",
+            "resumo": "Cobrança em duplicidade do plano anual adquirido.",
+            "sentimento": "negativo"
+        },
+        "32": {
+            "categoria": "cobranca",
+            "prioridade": "alta",
+            "resumo": "Cliente questiona sobre cobrança adicional na assinatura.",
+            "sentimento": "negativo"
+        },
+        "145": {
+            "categoria": "acesso",
+            "prioridade": "alta",
+            "resumo": "Problemas de acesso após troca de senha.",
+            "sentimento": "negativo"
+        },
+        "150": {
+            "categoria": "cobranca",
+            "prioridade": "media",
+            "resumo": "Usuário questiona sobre cobrança adicional na assinatura.",
+            "sentimento": "negativo"
+        },
+        "26": {
+            "categoria": "acesso",
+            "prioridade": "alta",
+            "resumo": "Novo usuário não recebeu e-mail de acesso.",
+            "sentimento": "negativo"
+        },
+        "24": {
+            "categoria": "bug",
+            "prioridade": "media",
+            "resumo": "Erro no CSV gerado com caracteres estranhos nos nomes dos clientes.",
+            "sentimento": "negativo"
+        },
+        "153": {
+            "categoria": "acesso",
+            "prioridade": "alta",
+            "resumo": "Usuário está recebendo mensagem de acesso inválido após trocar a senha.",
+            "sentimento": "negativo"
+        },
+        "178": {
+            "categoria": "acesso",
+            "prioridade": "alta",
+            "resumo": "Instabilidade ao acessar relatórios e indicadores.",
+            "sentimento": "negativo"
+        },
+        "200": {
+            "categoria": "bug",
+            "prioridade": "alta",
+            "resumo": "A plataforma está lenta e algumas páginas não carregam.",
+            "sentimento": "negativo"
+        },
+        "84": {
+            "categoria": "bug",
+            "prioridade": "alta",
+            "resumo": "Os gráficos do dashboard estão lentos para carregar.",
+            "sentimento": "negativo"
+        },
+        "110": {
+            "categoria": "acesso",
+            "prioridade": "media",
+            "resumo": "Usuário ainda não recebeu e-mail de acesso após convite.",
+            "sentimento": "negativo"
+        },
+        "104": {
+            "categoria": "acesso",
+            "prioridade": "alta",
+            "resumo": "Cliente não consegue acessar a conta com a senha correta.",
+            "sentimento": "negativo"
+        },
+        "174": {
+            "categoria": "acesso",
+            "prioridade": "alta",
+            "resumo": "Problemas para logar na conta por dois dias.",
+            "sentimento": "negativo"
+        },
+        "143": {
+            "categoria": "elogio",
+            "prioridade": "baixa",
+            "resumo": "Registro de elogio pela ajuda da plataforma à equipe.",
+            "sentimento": "positivo"
+        },
+        "76": {
+            "categoria": "acesso",
+            "prioridade": "alta",
+            "resumo": "Usuário convidado não recebeu e-mail de acesso.",
+            "sentimento": "negativo"
+        },
+        "87": {
+            "categoria": "acesso",
+            "prioridade": "media",
+            "resumo": "Usuário não encontrou opção para cancelar assinatura no painel.",
+            "sentimento": "negativo"
+        },
+        "4": {
+            "categoria": "cobranca",
+            "prioridade": "alta",
+            "resumo": "Solicitação de estorno de cobrança duplicada.",
+            "sentimento": "negativo"
+        },
+        "160": {
+            "categoria": "acesso",
+            "prioridade": "alta",
+            "resumo": "Usuário com problemas de acesso após troca de senha.",
+            "sentimento": "negativo"
+        },
+        "118": {
+            "categoria": "elogio",
+            "prioridade": "baixa",
+            "resumo": "Relatório foi excelente e economizou tempo no trabalho.",
+            "sentimento": "positivo"
+        },
+        "42": {
+            "categoria": "funcionalidade",
+            "prioridade": "media",
+            "resumo": "Pergunta sobre recursos do plano Business.",
+            "sentimento": "neutro"
+        },
+        "29": {
+            "categoria": "cobranca",
+            "prioridade": "alta",
+            "resumo": "Pagamento aprovado, mas sistema indica mensalidade pendente.",
+            "sentimento": "negativo"
+        },
+        "50": {
+            "categoria": "acesso",
+            "prioridade": "media",
+            "resumo": "Solicitação de verificação de limite de usuários no plano atual.",
+            "sentimento": "neutro"
+        },
+        "83": {
+            "categoria": "acesso",
+            "prioridade": "media",
+            "resumo": "Novo usuário não recebeu e-mail de acesso.",
+            "sentimento": "neutro"
+        },
+        "120": {
+            "categoria": "cobranca",
+            "prioridade": "alta",
+            "resumo": "Cliente cancelou o plano, mas ainda recebeu uma cobrança.",
+            "sentimento": "negativo"
+        },
+        "130": {
+            "categoria": "acesso",
+            "prioridade": "media",
+            "resumo": "Dificuldade para acessar o site pelo navegador.",
+            "sentimento": "negativo"
+        },
+        "35": {
+            "categoria": "cobranca",
+            "prioridade": "alta",
+            "resumo": "Cobrança duplicada pela mesma assinatura.",
+            "sentimento": "negativo"
+        },
+        "161": {
+            "categoria": "cobranca",
+            "prioridade": "alta",
+            "resumo": "Cobrança duplicada no cartão de crédito.",
+            "sentimento": "negativo"
+        },
+        "135": {
+            "categoria": "cobranca",
+            "prioridade": "media",
+            "resumo": "Solicitação de explicação sobre cobrança adicional na assinatura.",
+            "sentimento": "neutro"
+        },
+        "140": {
+            "categoria": "cobranca",
+            "prioridade": "alta",
+            "resumo": "Cliente questiona cobrança adicional na assinatura.",
+            "sentimento": "negativo"
+        },
+        "117": {
+            "categoria": "bug",
+            "prioridade": "alta",
+            "resumo": "Arquivo exportado sem colunas do dashboard.",
+            "sentimento": "negativo"
+        },
+        "73": {
+            "categoria": "acesso",
+            "prioridade": "media",
+            "resumo": "Usuário não consegue acessar pelo navegador, apenas pelo aplicativo.",
+            "sentimento": "negativo"
+        },
+        "86": {
+            "categoria": "bug",
+            "prioridade": "alta",
+            "resumo": "Erro na exportação para Excel.",
+            "sentimento": "negativo"
+        },
+        "146": {
+            "categoria": "funcionalidade",
+            "prioridade": "media",
+            "resumo": "Solicitação de upgrade de plano.",
+            "sentimento": "neutro"
+        },
+        "77": {
+            "categoria": "bug",
+            "prioridade": "alta",
+            "resumo": "Problema na exportação de relatório para CSV devido a falha no download.",
+            "sentimento": "negativo"
+        },
+        "3": {
+            "categoria": "elogio",
+            "prioridade": "baixa",
+            "resumo": "Elogio à nova interface do dashboard.",
+            "sentimento": "positivo"
+        },
+        "163": {
+            "categoria": "bug",
+            "prioridade": "alta",
+            "resumo": "Erro na exportação para Excel.",
+            "sentimento": "negativo"
+        },
+        "75": {
+            "categoria": "cobranca",
+            "prioridade": "alta",
+            "resumo": "Pagamento aprovado, mas mensalidade aparece como pendente.",
+            "sentimento": "negativo"
+        },
+        "48": {
+            "categoria": "acesso",
+            "prioridade": "media",
+            "resumo": "Problema ao acessar a conta pelo navegador.",
+            "sentimento": "negativo"
+        },
+        "102": {
+            "categoria": "cobranca",
+            "prioridade": "alta",
+            "resumo": "Pagamento aprovado, mas sistema indica mensalidade pendente.",
+            "sentimento": "negativo"
+        },
+        "171": {
+            "categoria": "outros",
+            "prioridade": "baixa",
+            "resumo": "Consulta sobre o funcionamento do cancelamento do plano anual.",
+            "sentimento": "neutro"
+        },
+        "46": {
+            "categoria": "acesso",
+            "prioridade": "media",
+            "resumo": "Solicitação de cancelamento de conta.",
+            "sentimento": "neutro"
+        },
+        "107": {
+            "categoria": "acesso",
+            "prioridade": "alta",
+            "resumo": "Problemas no recebimento do código de recuperação de senha.",
+            "sentimento": "negativo"
+        },
+        "45": {
+            "categoria": "bug",
+            "prioridade": "media",
+            "resumo": "Problema com caracteres estranhos nos nomes dos clientes no CSV gerado.",
+            "sentimento": "negativo"
+        },
+        "10": {
+            "categoria": "cobranca",
+            "prioridade": "alta",
+            "resumo": "Cobraça indevida após cancelamento de plano.",
+            "sentimento": "negativo"
+        },
+        "137": {
+            "categoria": "cobranca",
+            "prioridade": "alta",
+            "resumo": "Problema com a atualização do status de pagamento da mensalidade.",
+            "sentimento": "negativo"
+        },
+        "196": {
+            "categoria": "cobranca",
+            "prioridade": "alta",
+            "resumo": "Cliente questiona cobrança adicional na assinatura.",
+            "sentimento": "negativo"
+        },
+        "147": {
+            "categoria": "acesso",
+            "prioridade": "media",
+            "resumo": "Dificuldade no cancelamento do plano anual.",
+            "sentimento": "negativo"
+        },
+        "23": {
+            "categoria": "bug",
+            "prioridade": "alta",
+            "resumo": "Gráficos do dashboard estão demorando para carregar.",
+            "sentimento": "negativo"
+        },
+        "16": {
+            "categoria": "funcionalidade",
+            "prioridade": "media",
+            "resumo": "Solicitação de mais funcionalidades e opções de upgrade.",
+            "sentimento": "neutro"
+        },
+        "166": {
+            "categoria": "funcionalidade",
+            "prioridade": "media",
+            "resumo": "Usuário solicita como adicionar mais membros ao plano.",
+            "sentimento": "neutro"
+        },
+        "177": {
+            "categoria": "bug",
+            "prioridade": "alta",
+            "resumo": "A plataforma está lenta e algumas páginas não carregam.",
+            "sentimento": "negativo"
+        },
+        "74": {
+            "categoria": "acesso",
+            "prioridade": "alta",
+            "resumo": "Usuário precisa de ajuda urgente para alterar permissões de equipe.",
+            "sentimento": "negativo"
+        },
+        "167": {
+            "categoria": "funcionalidade",
+            "prioridade": "media",
+            "resumo": "Consulta sobre troca de plano e manutenção de dados cadastrados.",
+            "sentimento": "neutro"
+        },
+        "122": {
+            "categoria": "funcionalidade",
+            "prioridade": "media",
+            "resumo": "Solicitação para adicionar mais usuários ao plano.",
+            "sentimento": "neutro"
+        },
+        "105": {
+            "categoria": "acesso",
+            "prioridade": "alta",
+            "resumo": "Erro de autenticação na chave de integração.",
+            "sentimento": "negativo"
+        },
+        "41": {
+            "categoria": "elogio",
+            "prioridade": "baixa",
+            "resumo": "Cliente elogia os novos gráficos do dashboard por serem mais claros.",
+            "sentimento": "positivo"
+        },
+        "141": {
+            "categoria": "funcionalidade",
+            "prioridade": "media",
+            "resumo": "Solicitação de informações sobre funcionalidades e opções de upgrade.",
+            "sentimento": "neutro"
+        },
+        "2": {
+            "categoria": "acesso",
+            "prioridade": "alta",
+            "resumo": "Cliente não consegue logar há dois dias mesmo após tentar resetar a senha.",
+            "sentimento": "negativo"
+        },
+        "175": {
+            "categoria": "cobranca",
+            "prioridade": "media",
+            "resumo": "Cliente pergunta sobre o processo de cancelamento do plano anual.",
+            "sentimento": "neutro"
+        },
+        "194": {
+            "categoria": "funcionalidade",
+            "prioridade": "media",
+            "resumo": "Solicitação de informações sobre novas funcionalidades e opções de upgrade.",
+            "sentimento": "neutro"
+        },
+        "121": {
+            "categoria": "elogio",
+            "prioridade": "baixa",
+            "resumo": "Elogio sobre os novos gráficos do dashboard.",
+            "sentimento": "positivo"
+        },
+        "184": {
+            "categoria": "acesso",
+            "prioridade": "media",
+            "resumo": "Usuário quer desativar a renovação automática do plano.",
+            "sentimento": "neutro"
+        },
+        "85": {
+            "categoria": "elogio",
+            "prioridade": "baixa",
+            "resumo": "Elogio sobre os novos gráficos do dashboard.",
+            "sentimento": "positivo"
+        },
+        "106": {
+            "categoria": "acesso",
+            "prioridade": "alta",
+            "resumo": "Usuário não consegue logar há dois dias mesmo após tentativa de reset de senha.",
+            "sentimento": "negativo"
+        },
+        "14": {
+            "categoria": "cobranca",
+            "prioridade": "media",
+            "resumo": "Cliente questiona cobrança adicional em sua assinatura.",
+            "sentimento": "negativo"
+        },
+        "60": {
+            "categoria": "acesso",
+            "prioridade": "alta",
+            "resumo": "Usuário convidado não recebeu e-mail de acesso mesmo após reenvio.",
+            "sentimento": "negativo"
+        },
+        "164": {
+            "categoria": "acesso",
+            "prioridade": "alta",
+            "resumo": "Instabilidade no acesso a relatórios e indicadores.",
+            "sentimento": "negativo"
+        },
+        "58": {
+            "categoria": "bug",
+            "prioridade": "alta",
+            "resumo": "Problemas de desconexão do sistema durante o uso.",
+            "sentimento": "neutro"
+        },
+        "136": {
+            "categoria": "bug",
+            "prioridade": "alta",
+            "resumo": "Gráficos do dashboard demorando para carregar.",
+            "sentimento": "negativo"
+        },
+        "172": {
+            "categoria": "acesso",
+            "prioridade": "media",
+            "resumo": "Solicitação de desativação da renovação automática do plano.",
+            "sentimento": "neutro"
+        },
+        "13": {
+            "categoria": "acesso",
+            "prioridade": "alta",
+            "resumo": "Usuário não consegue logar após tentar resetar a senha.",
+            "sentimento": "negativo"
+        },
+        "63": {
+            "categoria": "bug",
+            "prioridade": "alta",
+            "resumo": "Arquivo exportado não contém algumas colunas presentes no dashboard.",
+            "sentimento": "negativo"
+        },
+        "62": {
+            "categoria": "acesso",
+            "prioridade": "media",
+            "resumo": "Solicitação para adicionar mais usuários ao plano existente.",
+            "sentimento": "neutro"
+        },
+        "151": {
+            "categoria": "elogio",
+            "prioridade": "baixa",
+            "resumo": "Feedback positivo sobre o novo relatório.",
+            "sentimento": "positivo"
+        },
+        "190": {
+            "categoria": "bug",
+            "prioridade": "alta",
+            "resumo": "Erro ao tentar exportar para Excel.",
+            "sentimento": "negativo"
+        },
+        "158": {
+            "categoria": "cobranca",
+            "prioridade": "alta",
+            "resumo": "Fatura com valor maior do que o contratado.",
+            "sentimento": "negativo"
+        },
+        "28": {
+            "categoria": "acesso",
+            "prioridade": "alta",
+            "resumo": "Erro de autenticação com a chave de integração.",
+            "sentimento": "negativo"
+        },
+        "36": {
+            "categoria": "cobranca",
+            "prioridade": "media",
+            "resumo": "Fatura com valor maior do que o contratado.",
+            "sentimento": "neutro"
+        },
+        "179": {
+            "categoria": "acesso",
+            "prioridade": "alta",
+            "resumo": "Problemas de acesso à conta com a senha correta.",
+            "sentimento": "negativo"
+        },
+        "144": {
+            "categoria": "bug",
+            "prioridade": "alta",
+            "resumo": "Sistema desconectando durante o uso.",
+            "sentimento": "negativo"
+        },
+        "70": {
+            "categoria": "cobranca",
+            "prioridade": "media",
+            "resumo": "Confirmação de cancelamento solicitado.",
+            "sentimento": "neutro"
+        },
+        "138": {
+            "categoria": "elogio",
+            "prioridade": "baixa",
+            "resumo": "Cliente elogia o atendimento rápido e a resolução do problema.",
+            "sentimento": "positivo"
+        },
+        "52": {
+            "categoria": "bug",
+            "prioridade": "alta",
+            "resumo": "O dashboard está lento e demora para carregar os dados.",
+            "sentimento": "negativo"
+        },
+        "123": {
+            "categoria": "acesso",
+            "prioridade": "alta",
+            "resumo": "Usuário precisa de ajuda para desativar a renovação automática do plano.",
+            "sentimento": "negativo"
+        },
+        "192": {
+            "categoria": "bug",
+            "prioridade": "media",
+            "resumo": "CSV gerado apresenta caracteres estranhos nos nomes dos clientes.",
+            "sentimento": "negativo"
+        },
+        "66": {
+            "categoria": "cobranca",
+            "prioridade": "media",
+            "resumo": "Cobrança duplicada na assinatura.",
+            "sentimento": "negativo"
+        },
+        "168": {
+            "categoria": "bug",
+            "prioridade": "alta",
+            "resumo": "Problema no carregamento dos relatórios que não abrem desde ontem.",
+            "sentimento": "negativo"
+        }
+    },
+    "custos": {
+        "token_resposta_ia": 6262,
+        "token_pergunta_user": 34885,
+        "token_total": 41147,
+        "custo_pergunta": 0.0052327499999999996,
+        "custo_resposta": 0.0037572,
+        "custo_total": 0.00898995
+    }
+}
