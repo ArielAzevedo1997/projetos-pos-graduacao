@@ -1,5 +1,10 @@
+# Dependências externas usadas pelo projeto
 pandas
 openai
 pydantic
 openpyxl
 pyarrow
+
+# Observações:
+# - os, json e typing pertencem à biblioteca padrão do Python e não precisam ser instalados via pip.
+# - google.colab é disponibilizado pelo próprio ambiente do Google Colab.
